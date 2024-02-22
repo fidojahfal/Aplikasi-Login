@@ -7,6 +7,7 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
 
-**Line for squashing 1**
-**Line for squashing 2**
-**Line for squashing 3**
+**Line for squashing 1**  
+**Line for squashing 2**  
+**Line for squashing 3**  
+Review code
