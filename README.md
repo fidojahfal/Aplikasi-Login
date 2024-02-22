@@ -9,3 +9,4 @@ Alur Fitur Login:
 
 **Line for squashing 1**
 **Line for squashing 2**
+**Line for squashing 3**
