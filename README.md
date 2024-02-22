@@ -6,3 +6,7 @@ Alur Fitur Login:
 1. Memasukkan email dan password
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
+
+**Line for squashing 1**
+**Line for squashing 2**
+**Line for squashing 3**
