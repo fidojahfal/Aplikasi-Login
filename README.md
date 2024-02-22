@@ -1,13 +1,9 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login
+# Volunter Pembuatan Aplikasi
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).<br>
+Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
-Alur Fitur Login:
-Alur Fitur Login:
-1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
+Silakan gunakan format berikut:<br>
+**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
-**Line for squashing 1**  
-**Line for squashing 2**  
-**Line for squashing 3**  
-Review code
+Berikut adalah daftar Volunter yang diterima:
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
